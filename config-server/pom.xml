@@ -4,11 +4,11 @@
 	<modelVersion>4.0.0</modelVersion>
 
 	<groupId>com.briansjavablog.microservices</groupId>
-	<artifactId>config-server</artifactId>
+	<artifactId>config-server1</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
 	<packaging>jar</packaging>
 
-	<name>config-server</name>
+	<name>config-server1</name>
 	<description>Demo config server provides centralised configuration for various micro services</description>
 
 	<parent>
